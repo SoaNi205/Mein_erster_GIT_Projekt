@@ -1,3 +1,4 @@
 Hallo, ich bin Nicolas
 
 Notiz: Ich arbeite gerade an meiner erste GIT-Aufgabe.
+Klasse: 2TPIF1
